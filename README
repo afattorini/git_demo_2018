@@ -5,9 +5,10 @@ Hallo Lena.
 
 
 git status
-- Status abfragen
 
-git add
-- adden
+git add file
+git commit -m 'Beschreibung'
+git push
 
+git pull
 
