@@ -13,6 +13,9 @@ git log --all --decorate --graph
 git add file
 git commit -m 'Beschreibung' oder git commit (öffnet Editor)
 
+# commit ändern, geht aber nur vorm pushen!!
+git commit --amend
+
 # Packt den Schmu auf Git
 git push
 
