@@ -1,6 +1,6 @@
 # Git Demo
 
-Hallo Lena. Hier ist es echt durcheinander.
+Hallo Lena.
 
 
 ## Geht immer
@@ -28,5 +28,7 @@ Da erzeugte man einen Branch:
 git branch little_story 
 git branch
 git checkout little_story
-Dinge tun auf Branch little_story
+Dinge tun auf Branch little_story, adden und committen 
 git checkout master
+Dinge auf Master tun, adden und committen
+git merge little_story
