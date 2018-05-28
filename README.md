@@ -21,3 +21,12 @@ git push
 
 ## Schmu von Git auf lokalen PC
 git pull
+
+## Little Story
+Es war einmal ein Git Repository...
+Da erzeugte man einen Branch:
+git branch little_story 
+git branch
+git checkout little_story
+Dinge tun auf Branch little_story
+git checkout master
